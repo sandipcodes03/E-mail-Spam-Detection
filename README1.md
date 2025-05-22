@@ -5,8 +5,6 @@
 
 <font size="1">Image Courtesy: https://www.easyspace.com/blog/wp-content/uploads/2019/03/spam-1.png</font>
 
-Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/github/Apaulgithub/oibsip_taskno4/blob/main/Email_Spam_Detection_with_Machine_Learning.ipynb#scrollTo=beRrZCGUAJYm)
 
 
 ---
